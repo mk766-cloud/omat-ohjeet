@@ -19,3 +19,4 @@ Tee tarvittavat muokkaukset projektiisi, valitse halutut muutokset komennolla â€
 
 ### 7. 
 
+<img width="642" height="271" alt="Kuva1" src="https://github.com/user-attachments/assets/3a682d09-dbaf-4c27-9ea4-c5624cf5737a" />
